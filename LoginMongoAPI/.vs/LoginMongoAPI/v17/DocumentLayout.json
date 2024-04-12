@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\interfaces\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\interfaces\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\loginmongoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\loginmongoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\staticclasses\\dbcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\staticclasses\\dbcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|c:\\users\\debor\\source\\repos\\loginmongoapi\\loginmongoapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2774D3C6-8CD7-431C-A76E-D27AEBCEC221}|LoginMongoAPI\\LoginMongoAPI.csproj|solutionrelative:loginmongoapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userService.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Services\\userService.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Services\\userService.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Services\\userService.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Services\\userService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:35:42.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBCollections.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\StaticClasses\\DBCollections.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\StaticClasses\\DBCollections.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\StaticClasses\\DBCollections.cs",
+              "RelativeToolTip": "LoginMongoAPI\\StaticClasses\\DBCollections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:55:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginMongoAPI",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\LoginMongoAPI.csproj",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\LoginMongoAPI.csproj",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\LoginMongoAPI.csproj",
+              "RelativeToolTip": "LoginMongoAPI\\LoginMongoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T12:44:40.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:43:09.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LoginMongoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T12:42:11.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\appsettings.json",
+              "RelativeToolTip": "LoginMongoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T12:23:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Models\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:39:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Program.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:41:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Models\\UserContext.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Models\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:59:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Models\\User.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:30:39.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "282d4c04-02d5-4ecd-a133-3443d1c06baa",
+        "Display": 1,
+        "X": 381,
+        "Y": 141,
+        "Width": 1356,
+        "Height": 739,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Interfaces\\UserInterface.cs",
+              "RelativeDocumentMoniker": "LoginMongoAPI\\Interfaces\\UserInterface.cs",
+              "ToolTip": "C:\\Users\\debor\\source\\repos\\LoginMongoAPI\\LoginMongoAPI\\Interfaces\\UserInterface.cs",
+              "RelativeToolTip": "LoginMongoAPI\\Interfaces\\UserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:45:02.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

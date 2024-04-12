@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bfkz9cPDiqXt2uWLdCETkrwolkce2v4STnQarrRxPDc=",
+  "Source": "LoginMongoAPI",
+  "BasePath": "_content/LoginMongoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
